@@ -9,6 +9,11 @@ function App() {
          Programmer №1 <p>Joni</p>
          <span>created program</span>
     </p>
+
+    <p>
+         Programmer №3 <p>Joni</p>
+         <span>created new second program</span>
+    </p>
     </div>
   );
 }
