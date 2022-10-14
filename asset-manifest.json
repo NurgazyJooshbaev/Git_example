@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Git_example/static/css/main.519e4117.css",
+    "main.js": "/Git_example/static/js/main.95210ced.js",
+    "index.html": "/Git_example/index.html",
+    "main.519e4117.css.map": "/Git_example/static/css/main.519e4117.css.map",
+    "main.95210ced.js.map": "/Git_example/static/js/main.95210ced.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519e4117.css",
+    "static/js/main.95210ced.js"
+  ]
+}
